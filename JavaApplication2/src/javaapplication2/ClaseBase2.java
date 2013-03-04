@@ -10,5 +10,5 @@ package javaapplication2;
  */
 public class ClaseBase2 {
  
-    public ClaseBase2(){}
+    public ClaseBase2(){ System.out.println("prueba de conflicto");}
 }
