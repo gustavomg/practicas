@@ -9,5 +9,6 @@ package javaapplication2;
  * @author gustavo.millan
  */
 public class ClaseBase2 {
-    
+ 
+    public ClaseBase2(){}
 }
