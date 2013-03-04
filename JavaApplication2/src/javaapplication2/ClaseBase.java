@@ -9,6 +9,6 @@ package javaapplication2;
  * @author gustavo.millan
  */
 public class ClaseBase {
-    public ClaseBase(){}
+    public ClaseBase(){System.out.println("pruebA");}
     
 }
