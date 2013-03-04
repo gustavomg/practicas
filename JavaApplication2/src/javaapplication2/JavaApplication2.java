@@ -24,6 +24,7 @@ public class JavaApplication2 {
          System.out.println("archvi no existe");
             try {
                 //CREAR
+                System.out.println("archivo creado");
                 archivo.createNewFile();
             } catch (IOException ex) {
                 Logger.getLogger(JavaApplication2.class.getName()).log(Level.SEVERE, null, ex);
